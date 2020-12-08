@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Fresca&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body, button {
+  font-family: 'Fresca', sans-serif;
+
+}
+
+.ql-editor {
+  min-height: 300px !important;
+}
+
+/* .App {
+  text-align: center;
+}
+
+.Homepage-logo {
+  height: 40vmin;
+}
+
+.Homepage {
+  background-color: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #000;
+}
+
+.Homepage .container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.Homepage .container .left img {
+  display: grid;
+  width: 100%;
+  max-width: 300px;
+}
+
+.Homepage .container .right p {
+  display: grid;
+  max-width: 200px;
+  text-align: left;
+  padding-left: 50px;
+}
+
+.Homepage .container .right button {
+  padding: 20px;
+  background-color: #49BA37;
+  font-size: 3rem;
+  text-transform: uppercase;
+  color: #fff;
+  border-color: transparent;
+
+}
+
+.Homepage .container .right button:hover {
+  cursor: pointer;
+}
+
+ .AddActivity {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.SidbarMobile {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+*/
